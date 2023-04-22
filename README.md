@@ -10,7 +10,7 @@ The site is live <a href="https://himanshuranjan977.github.io/CodeClause_project
 
 ## Project timeline and technologies used
 
-Build a React website in a weak to showcase the following:
+Build a Responsive website in a weak to showcase the following:
 * My technical skill set
 * My web design skill set
 * My projects
