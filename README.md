@@ -1,4 +1,4 @@
-# CodeClause_project_02_Portfolio-Website
+# Portfolio-Website
 
 Portfolio website built in Html and Css
 
